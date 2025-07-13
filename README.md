@@ -1,2 +1,1 @@
-Hello, Hexlet
-Hello, hexlet! How are you?
+New message for Hexlet
