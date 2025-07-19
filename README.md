@@ -1,1 +1,3 @@
-New message for Hexlet
+Hello, Hexlet
+Hello, hexlet! How are you?
+no code no pain
